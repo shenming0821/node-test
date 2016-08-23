@@ -1,0 +1,5 @@
+/nbproject/private/
+*.codekit
+*.idea
+.vscode
+node_modules*
