@@ -1,0 +1,6 @@
+------WebKitFormBoundaryIF6FFEIY3YtOTy7J
+Content-Disposition: form-data; name="hehe"; filename="message.text"
+Content-Type: text/plain
+
+呵呵呵
+------WebKitFormBoundaryIF6FFEIY3YtOTy7J--
