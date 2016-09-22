@@ -18,3 +18,4 @@ if (cluster.isMaster) { // 如果是主进程
         res.end('hello world\n');
     }).listen(8000);
 }
+

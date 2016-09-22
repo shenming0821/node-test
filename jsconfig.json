@@ -1,0 +1,17 @@
+{
+	/// <reference path="globals/node/index.d.ts" />
+	"compilerOptions": {
+		"target": "es6",
+		"noLib": true,
+		"module": "commonjs",
+		"allowSyntheticDefaultImports": true
+	},
+	"exclude": [
+		"nolib",
+		"node_modules",
+		"bower_components",
+		"jspm_packages",
+		"tmp",
+		"temp"
+	]
+}
