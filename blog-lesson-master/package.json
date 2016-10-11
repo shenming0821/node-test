@@ -1,0 +1,25 @@
+{
+  "name": "blog-lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "database.js",
+  "dependencies": {
+    "png-word": "^0.0.7",
+    "random-word": "liangzeng/random-word"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liangzeng/blog-lesson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liangzeng/blog-lesson/issues"
+  },
+  "homepage": "https://github.com/liangzeng/blog-lesson"
+}
